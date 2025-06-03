@@ -1,21 +1,20 @@
-# 📊 Business Data Analysis Internship (EBSCO) – Summer 2025
+# 📊 Business Data Analysis Internship – EBSCO (Summer 2025)
 
 ## 📝 Overview
-This repository contains my work as part of the **EBSCO Information Services Remote Data Internship – Summer 2025**, including business-focused data analysis, cleaning, visualization, and insights generation.
+This repository contains the work and deliverables as part of the **EBSCO Information Services Business/Data Analysis Internship (Summer 2025)**.  
+The project focuses on analyzing real-world business data to identify trends, clean data, visualize key metrics, and provide actionable insights.
 
-## 🔧 Tools Used
-- Python (Pandas, Matplotlib)
-- Excel / Google Sheets
-- SQL
-- Tableau / Power BI
+## 🧩 Modules Covered
+- Data Collection & Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Dashboarding & Visualization  
+- Business Recommendations Report  
 
-## 📂 Work Includes
-- Data Quality Assessment
-- Exploratory Data Analysis (EDA)
-- Report Generation
-- Business Recommendations
+## 🔧 Tools & Technologies
+- Microsoft Excel / Google Sheets  
+- Python (Pandas, Matplotlib/Seaborn)  
+- SQL  
+- Power BI / Tableau  
 
-## 📄 Deliverables
-- `data_cleaning.ipynb`
-- `eda_report.xlsx`
-- `presentation.pdf`
+## 📁 Folder Structure
+
